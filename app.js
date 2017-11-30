@@ -51,6 +51,6 @@ var server = http.createServer(function (request, response){
     }
 });
 // tell your server which port to run on
-server.listen(6789);
+server.listen(port);
 // print to terminal window
-console.log("Running in localhost at port 6789");
+console.log("Running in localhost at port 7077");
